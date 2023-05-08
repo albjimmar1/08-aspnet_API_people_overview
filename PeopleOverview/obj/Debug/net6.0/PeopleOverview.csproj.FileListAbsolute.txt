@@ -25,3 +25,6 @@ C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overvie
 C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overview\PeopleOverview\obj\Debug\net6.0\PeopleOverview.pdb
 C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overview\PeopleOverview\obj\Debug\net6.0\PeopleOverview.genruntimeconfig.cache
 C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overview\PeopleOverview\obj\Debug\net6.0\ref\PeopleOverview.dll
+C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overview\PeopleOverview\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overview\PeopleOverview\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Equipo\Documents\Projects\VisualStudioCode\08-aspnet_API_people_overview\PeopleOverview\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
