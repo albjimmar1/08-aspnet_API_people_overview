@@ -18,6 +18,3 @@ cd 08-aspnet_API_people_overview/PeopleOverview
 ```sh
 dotnet run
 ```
-```sh
-npm run dev
-```
